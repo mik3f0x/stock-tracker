@@ -1,0 +1,82 @@
+[
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "shares": 150,
+    "date_acquired": "2022-05-10",
+    "purchase_price_per_share": 135.25,
+    "current_price": 138.91
+  },
+  {
+    "symbol": "GOOGL",
+    "name": "Alphabet Inc.",
+    "shares": 80,
+    "date_acquired": "2021-12-15",
+    "purchase_price_per_share": 2700.8,
+    "current_price": 3265.75
+  },
+  {
+    "symbol": "AMZN",
+    "name": "Amazon.com Inc.",
+    "shares": 40,
+    "date_acquired": "2023-01-20",
+    "purchase_price_per_share": 3200.5,
+    "current_price": 3699.93
+  },
+  {
+    "symbol": "MSFT",
+    "name": "Microsoft Corporation",
+    "shares": 100,
+    "date_acquired": "2022-08-05",
+    "purchase_price_per_share": 280.9,
+    "current_price": 249.7
+  },
+  {
+    "symbol": "TSLA",
+    "name": "Tesla Inc.",
+    "shares": 75,
+    "date_acquired": "2023-03-28",
+    "purchase_price_per_share": 800.0,
+    "current_price": 747.55
+  },
+  {
+    "symbol": "FB",
+    "name": "Meta Platforms Inc.",
+    "shares": 60,
+    "date_acquired": "2022-11-10",
+    "purchase_price_per_share": 330.75,
+    "current_price": 322.18
+  },
+  {
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation",
+    "shares": 90,
+    "date_acquired": "2023-06-12",
+    "purchase_price_per_share": 650.4,
+    "current_price": 549.32
+  },
+  {
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co.",
+    "shares": 120,
+    "date_acquired": "2022-04-03",
+    "purchase_price_per_share": 150.2,
+    "current_price": 209.82
+  },
+  {
+    "symbol": "PYPL",
+    "name": "PayPal Holdings Inc.",
+    "shares": 85,
+    "date_acquired": "2023-08-22",
+    "purchase_price_per_share": 250.6,
+    "current_price": 274.47
+  },
+  {
+    "symbol": "V",
+    "name": "Visa Inc.",
+    "shares": 110,
+    "date_acquired": "2021-10-07",
+    "purchase_price_per_share": 220.3,
+    "current_price": 270.35
+  }
+]
